@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>img145.jpg</filename>
+	<path>C:\Users\kurtz\Documents\ENSEEIHT3A\IA\deep-learning-3A\animals-master\labelled\img145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jaguar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>10</ymin>
+			<xmax>39</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

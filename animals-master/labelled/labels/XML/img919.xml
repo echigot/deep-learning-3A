@@ -1,0 +1,14 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>img919.jpg</filename>
+	<path>C:\Users\kurtz\Documents\ENSEEIHT3A\IA\deep-learning-3A\animals-master\labelled\img919.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
